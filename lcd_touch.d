@@ -1,0 +1,14 @@
+.\lcd_touch.o: LCD_touch.C
+.\lcd_touch.o: F:\Keil-MDK\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cm3.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cmInstr.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cmFunc.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\lcd_touch.o: touch.h
+.\lcd_touch.o: SYS.H
+.\lcd_touch.o: lcd.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\stdlib.h
+.\lcd_touch.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\math.h
+.\lcd_touch.o: exti.h
+.\lcd_touch.o: i2c.h
